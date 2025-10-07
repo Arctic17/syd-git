@@ -29,3 +29,13 @@ Nothing has happend to it as the repo was cloned localy by the user and has not 
 
 ### Task 7
 ![Gitgraph](img/gitgraph.svg)
+1. Branch 
+2. Commit Hash
+3. Commit Message
+4. User that commited/merged/Branched
+5. Version of main 
+6. latest commite made to develop
+7. feature of user authentication branched of main and merged into the develop branch
+8. current state of the merge (Version that the client recieves)
+9. Development branch
+10. Main time line
